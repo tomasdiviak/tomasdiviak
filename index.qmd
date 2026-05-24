@@ -1,7 +1,7 @@
 ---
 title: "Tomas Diviak"
 subtitle: "Senior Lecturer"
-image: img/TD.jpg
+image: img/TD2.jpg
 title-block-banner: false
 about:
   template: solana
@@ -11,14 +11,15 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: ./contact.html
+      href: mailto:tomas.diviak[at]manchester.ac.uk
     - icon: github
       text: GitHub
       href: https://github.com/tomasdiviak
-    - icon: person-lines-fill
-      text: ResearchGate
+    - text: "{{< fa brands researchgate >}} ResearchGate"
       href: https://www.researchgate.net/profile/Tomas_Diviak
 ---
+
+
 
 My name is Tomáš Diviák and I currently hold a position of Senior Lecturer at the department of criminology and the Mitchell Centre for Social Network Analysis at the University of Manchester. Besides that, I am a co-founder of Czech Network for Social Network Analysis, through which we regularly organize workshops and conferences. Within the International Network for Social Network Analysis, I am currently a board member of the Early- and Mid-Career Researchers council (co-chair 2024-25).
 

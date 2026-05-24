@@ -19,11 +19,17 @@ website:
         href: publications.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "Contact me"
-        href: contact.qmd
+    tools:
+      - icon: github
+        href: https://github.com/tomasdiviak
+        text: GitHub
+    right:
+      - text: "{{< fa brands researchgate title='ResearchGate' >}}"
+        href: https://www.researchgate.net/profile/Tomas_Diviak
 
 format:
   html:
-    theme: litera
-    css: styles/site.css
+    theme:
+      - litera
+      - styles/theme.scss
     toc: false
