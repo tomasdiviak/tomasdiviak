@@ -4,7 +4,6 @@ project:
 
 website:
   title: "Tomas Diviak"
-  site-url: https://tomasdiviak.com
   favicon: TDfavicon.ico
   search: false
   navbar:
